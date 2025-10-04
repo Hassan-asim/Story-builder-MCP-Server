@@ -6,15 +6,41 @@ A sophisticated, full-stack interactive storytelling application that leverages 
 
 **📹 Watch the Complete Demo** - Comprehensive walkthrough of the application features, MCP integration, and natural language interactions.
 
-### 🎬 Watch Online (Recommended)
-[![Watch Demo Video](https://img.shields.io/badge/🎥-Watch%20Demo%20Video-red?style=for-the-badge&logo=youtube)](https://youtube.com/watch?v=YOUR_VIDEO_ID)
+### 🎬 Watch the Demo Video
 
-*Upload your `MCP_app_recording.mp4` to YouTube and replace `YOUR_VIDEO_ID` with the actual video ID*
+[![Watch Demo Video](https://img.shields.io/badge/🎥-Watch%20Demo%20Video-blue?style=for-the-badge&logo=video)](./MCP_app_recording.mp4)
 
-### 📥 Alternative: Download & Watch Locally
-- **Direct Download**: [MCP_app_recording.mp4](./MCP_app_recording.mp4)
-- **File Size**: ~61 MB
-- **Duration**: Complete application walkthrough
+**Click the button above to download and watch the demo video**
+
+### 📱 Alternative Video Hosting Options:
+
+#### Option 1: Loom (Recommended)
+- Go to [Loom.com](https://loom.com)
+- Upload your `MCP_app_recording.mp4`
+- Get a shareable link
+- Replace the button link above
+
+#### Option 2: Vimeo
+- Go to [Vimeo.com](https://vimeo.com)
+- Upload your video
+- Get embed link
+- Update the button above
+
+#### Option 3: Google Drive
+- Upload to Google Drive
+- Set sharing to "Anyone with link can view"
+- Copy the shareable link
+- Update the button above
+
+#### Option 4: Dropbox
+- Upload to Dropbox
+- Create a shareable link
+- Update the button above
+
+### 📥 Direct Download
+- **File**: [MCP_app_recording.mp4](./MCP_app_recording.mp4)
+- **Size**: ~61 MB
+- **Format**: MP4 (compatible with all devices)
 
 ### 🎯 What's Included in the Demo:
 - ✅ **Story Creation**: Theme-based story generation
@@ -24,17 +50,14 @@ A sophisticated, full-stack interactive storytelling application that leverages 
 - ✅ **Backend API**: FastAPI endpoints and job processing
 - ✅ **Real-time Updates**: Job status monitoring and story loading
 
-### 📋 Instructions for YouTube Upload:
-1. Go to [YouTube Studio](https://studio.youtube.com/)
-2. Click "Create" → "Upload video"
-3. Upload your `MCP_app_recording.mp4` file
-4. Add title: "MCP APP - Choose Your Own Adventure AI Demo"
-5. Add description with your project details
-6. Set visibility to "Public" or "Unlisted"
-7. Copy the video ID from the URL (e.g., `dQw4w9WgXcQ` from `youtube.com/watch?v=dQw4w9WgXcQ`)
-8. Replace `YOUR_VIDEO_ID` in the badge above
+### 💡 Quick Setup Instructions:
+1. Choose one of the hosting options above
+2. Upload your `MCP_app_recording.mp4` file
+3. Get the shareable/embed link
+4. Replace `./MCP_app_recording.mp4` in the button above with your new link
+5. Commit and push the changes
 
-*Note: YouTube provides the best viewing experience with automatic quality adjustment, mobile support, and no download required.*
+*Note: These platforms provide better viewing experience than direct download and work well on GitHub.*
 
 ## 🌟 Key Features
 
