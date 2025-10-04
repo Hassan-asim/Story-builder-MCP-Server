@@ -6,10 +6,12 @@ A sophisticated, full-stack interactive storytelling application that leverages 
 
 **📹 Watch the Complete Demo** - Comprehensive walkthrough of the application features, MCP integration, and natural language interactions.
 
-### 🎬 Video Preview
-![Demo Video Thumbnail](./MCP_app_recording.mp4)
+### 🎬 Watch Online (Recommended)
+[![Watch Demo Video](https://img.shields.io/badge/🎥-Watch%20Demo%20Video-red?style=for-the-badge&logo=youtube)](https://youtube.com/watch?v=YOUR_VIDEO_ID)
 
-### 📥 Download & Watch
+*Upload your `MCP_app_recording.mp4` to YouTube and replace `YOUR_VIDEO_ID` with the actual video ID*
+
+### 📥 Alternative: Download & Watch Locally
 - **Direct Download**: [MCP_app_recording.mp4](./MCP_app_recording.mp4)
 - **File Size**: ~61 MB
 - **Duration**: Complete application walkthrough
@@ -22,7 +24,17 @@ A sophisticated, full-stack interactive storytelling application that leverages 
 - ✅ **Backend API**: FastAPI endpoints and job processing
 - ✅ **Real-time Updates**: Job status monitoring and story loading
 
-*Note: The demo video showcases the full functionality of the MCP APP including story generation, interactive gameplay, and MCP integration through Gemini CLI.*
+### 📋 Instructions for YouTube Upload:
+1. Go to [YouTube Studio](https://studio.youtube.com/)
+2. Click "Create" → "Upload video"
+3. Upload your `MCP_app_recording.mp4` file
+4. Add title: "MCP APP - Choose Your Own Adventure AI Demo"
+5. Add description with your project details
+6. Set visibility to "Public" or "Unlisted"
+7. Copy the video ID from the URL (e.g., `dQw4w9WgXcQ` from `youtube.com/watch?v=dQw4w9WgXcQ`)
+8. Replace `YOUR_VIDEO_ID` in the badge above
+
+*Note: YouTube provides the best viewing experience with automatic quality adjustment, mobile support, and no download required.*
 
 ## 🌟 Key Features
 
