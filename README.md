@@ -6,11 +6,21 @@ A sophisticated, full-stack interactive storytelling application that leverages 
 
 **📹 Watch the Complete Demo** - Comprehensive walkthrough of the application features, MCP integration, and natural language interactions.
 
-<video width="800" controls>
-  <source src="./MCP_app_recording.mp4" type="video/mp4">
-  Your browser does not support the video tag. 
-  <a href="./MCP_app_recording.mp4">Download the video</a> to watch it locally.
-</video>
+### 🎬 Video Preview
+![Demo Video Thumbnail](./MCP_app_recording.mp4)
+
+### 📥 Download & Watch
+- **Direct Download**: [MCP_app_recording.mp4](./MCP_app_recording.mp4)
+- **File Size**: ~61 MB
+- **Duration**: Complete application walkthrough
+
+### 🎯 What's Included in the Demo:
+- ✅ **Story Creation**: Theme-based story generation
+- ✅ **Interactive Gameplay**: Making choices and story progression  
+- ✅ **MCP Integration**: Natural language commands through Gemini CLI
+- ✅ **Frontend Interface**: React components and user experience
+- ✅ **Backend API**: FastAPI endpoints and job processing
+- ✅ **Real-time Updates**: Job status monitoring and story loading
 
 *Note: The demo video showcases the full functionality of the MCP APP including story generation, interactive gameplay, and MCP integration through Gemini CLI.*
 
