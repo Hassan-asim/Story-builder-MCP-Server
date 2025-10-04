@@ -8,9 +8,9 @@ A sophisticated, full-stack interactive storytelling application that leverages 
 
 ### 🎬 Watch the Demo Video
 
-[![Watch Demo Video](https://img.shields.io/badge/🎥-Watch%20Demo%20Video-blue?style=for-the-badge&logo=video)](./MCP_app_recording.mp4)
+[![Watch Demo Video](https://img.shields.io/badge/🎥-Watch%20Demo%20Video-blue?style=for-the-badge&logo=video)](https://drive.google.com/file/d/11D28pTZTdCkDP91hXoCFxCmzCp2-FcLQ/view?usp=drive_link)
 
-**Click the button above to download and watch the demo video**
+**Click the button above to watch the demo video directly on Google Drive**
 
 ### 📱 Alternative Video Hosting Options:
 
@@ -37,8 +37,9 @@ A sophisticated, full-stack interactive storytelling application that leverages 
 - Create a shareable link
 - Update the button above
 
-### 📥 Direct Download
-- **File**: [MCP_app_recording.mp4](./MCP_app_recording.mp4)
+### 📥 Alternative Download Options
+- **Google Drive**: [Watch/Download from Google Drive](https://drive.google.com/file/d/11D28pTZTdCkDP91hXoCFxCmzCp2-FcLQ/view?usp=drive_link) ⭐ **Recommended**
+- **Direct Download**: [MCP_app_recording.mp4](./MCP_app_recording.mp4)
 - **Size**: ~61 MB
 - **Format**: MP4 (compatible with all devices)
 
