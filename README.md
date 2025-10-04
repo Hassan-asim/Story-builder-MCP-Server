@@ -12,30 +12,6 @@ A sophisticated, full-stack interactive storytelling application that leverages 
 
 **Click the button above to watch the demo video directly on Google Drive**
 
-### 📱 Alternative Video Hosting Options:
-
-#### Option 1: Loom (Recommended)
-- Go to [Loom.com](https://loom.com)
-- Upload your `MCP_app_recording.mp4`
-- Get a shareable link
-- Replace the button link above
-
-#### Option 2: Vimeo
-- Go to [Vimeo.com](https://vimeo.com)
-- Upload your video
-- Get embed link
-- Update the button above
-
-#### Option 3: Google Drive
-- Upload to Google Drive
-- Set sharing to "Anyone with link can view"
-- Copy the shareable link
-- Update the button above
-
-#### Option 4: Dropbox
-- Upload to Dropbox
-- Create a shareable link
-- Update the button above
 
 ### 📥 Alternative Download Options
 - **Google Drive**: [Watch/Download from Google Drive](https://drive.google.com/file/d/11D28pTZTdCkDP91hXoCFxCmzCp2-FcLQ/view?usp=drive_link) ⭐ **Recommended**
@@ -51,14 +27,7 @@ A sophisticated, full-stack interactive storytelling application that leverages 
 - ✅ **Backend API**: FastAPI endpoints and job processing
 - ✅ **Real-time Updates**: Job status monitoring and story loading
 
-### 💡 Quick Setup Instructions:
-1. Choose one of the hosting options above
-2. Upload your `MCP_app_recording.mp4` file
-3. Get the shareable/embed link
-4. Replace `./MCP_app_recording.mp4` in the button above with your new link
-5. Commit and push the changes
-
-*Note: These platforms provide better viewing experience than direct download and work well on GitHub.*
+*Note: The video is hosted on Google Drive for optimal viewing experience and works seamlessly on GitHub.*
 
 ## 🌟 Key Features
 
